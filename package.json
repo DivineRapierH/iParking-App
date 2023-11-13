@@ -23,8 +23,8 @@
     "vuex-persistedstate": "^2.5.4"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.6.0",
-    "@vue/cli-plugin-eslint": "^3.6.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-plugin-eslint": "^5.0.8",
     "@vue/cli-plugin-unit-jest": "^5.0.8",
     "@vue/cli-service": "^5.0.8",
     "@vue/eslint-config-prettier": "^4.0.1",
@@ -35,7 +35,7 @@
     "babel-plugin-import": "^1.11.0",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
-    "less": "^3.0.4",
+    "less": "^4.2.0",
     "less-loader": "^4.1.0",
     "lint-staged": "^8.1.5",
     "vue-template-compiler": "^2.5.21"
